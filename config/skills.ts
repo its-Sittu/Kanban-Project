@@ -47,6 +47,7 @@ export const skillCategories: SkillCategory[] = [
             { name: "Figma", icon: "figma" },
             { name: "Vercel", icon: "vercel" },
             { name: "Firebase", icon: "firebase" },
+            { name: "Docker", icon: "docker" },
         ]
     }
 ]
