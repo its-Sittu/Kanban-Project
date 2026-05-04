@@ -97,5 +97,4 @@ export const skillCategories: SkillCategory[] = [
             { name: "Mixpanel", icon: "code" },
             { name: "Amplitude", icon: "code" },
             { name: "Google Analytics", icon: "code" },
-            { name: "Segment", icon: "code" },
 ]
