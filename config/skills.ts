@@ -121,4 +121,5 @@ export const skillCategories: SkillCategory[] = [
             { name: "Drupal", icon: "code" },
             { name: "Joomla", icon: "code" },
             { name: "Sitecore", icon: "code" },
+            { name: "Adobe Experience Manager", icon: "code" },
 ]
