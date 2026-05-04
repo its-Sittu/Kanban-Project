@@ -34,6 +34,7 @@ export const skillCategories: SkillCategory[] = [
             { name: "REST APIs", icon: "api" },
             { name: "JWT Authentication", icon: "auth" },
             { name: "GraphQL", icon: "graphql" },
+            { name: "PostgreSQL", icon: "postgresql" },
         ]
     },
     {
