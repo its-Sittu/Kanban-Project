@@ -156,5 +156,4 @@ export const skillCategories: SkillCategory[] = [
             { name: "AdonisJS", icon: "code" },
             { name: "Sails.js", icon: "code" },
             { name: "Hapi.js", icon: "code" },
-            { name: "Koa.js", icon: "code" },
 ]
