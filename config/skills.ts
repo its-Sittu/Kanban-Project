@@ -87,5 +87,4 @@ export const skillCategories: SkillCategory[] = [
             { name: "Docker Swarm", icon: "code" },
             { name: "Helm", icon: "code" },
             { name: "Prometheus", icon: "code" },
-            { name: "Grafana", icon: "code" },
 ]
