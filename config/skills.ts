@@ -33,6 +33,7 @@ export const skillCategories: SkillCategory[] = [
             { name: "MongoDB", icon: "mongodb" },
             { name: "REST APIs", icon: "api" },
             { name: "JWT Authentication", icon: "auth" },
+            { name: "GraphQL", icon: "graphql" },
         ]
     },
     {
