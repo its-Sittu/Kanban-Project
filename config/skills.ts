@@ -124,4 +124,5 @@ export const skillCategories: SkillCategory[] = [
             { name: "Adobe Experience Manager", icon: "code" },
             { name: "Prismic", icon: "code" },
             { name: "Sanity", icon: "code" },
+            { name: "DatoCMS", icon: "code" },
 ]
