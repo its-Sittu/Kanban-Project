@@ -129,5 +129,4 @@ export const skillCategories: SkillCategory[] = [
             { name: "Hygraph", icon: "code" },
             { name: "Agility CMS", icon: "code" },
             { name: "ButterCMS", icon: "code" },
-            { name: "Cosmic JS", icon: "code" },
 ]
