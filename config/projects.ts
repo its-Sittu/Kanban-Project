@@ -28,4 +28,10 @@ export const projects: Project[] = [
         techStack: ["MERN Stack"],
         image: "/projects/movie-platform.png",
     },
+    {
+        title: "LifeSensorX",
+        description: "An emergency response dashboard that integrates real-time location tracking and Twilio SMS alerts for rapid medical assistance.",
+        techStack: ["Next.js", "Express", "Twilio", "Google Maps API"],
+        github: "https://github.com/its-Sittu/LifeSensorX",
+    },
 ]
