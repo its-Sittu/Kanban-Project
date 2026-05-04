@@ -41,7 +41,10 @@ export function ExperienceSection() {
                                     </div>
 
                                     {/* Content Card */}
-                                    <div className="flex-1 p-6 bg-gradient-to-br from-white/10 to-white/5 rounded-lg border border-white/10 hover:border-[#00A8E1]/50 transition-all backdrop-blur-sm">
+                                    <motion.div 
+                                        whileHover={{ scale: 1.02 }}
+                                        className="flex-1 p-6 bg-gradient-to-br from-white/10 to-white/5 rounded-lg border border-white/10 hover:border-[#00A8E1]/50 transition-all backdrop-blur-sm"
+                                    >
                                         <div className="flex flex-col md:flex-row md:items-center md:justify-between gap-2 mb-4">
                                             <h3 className="text-2xl font-bold text-white">{item.title}</h3>
                                             <span className="text-sm font-medium text-[#00A8E1] bg-[#00A8E1]/10 px-3 py-1 rounded-full whitespace-nowrap w-fit">
@@ -52,7 +55,7 @@ export function ExperienceSection() {
                                             {item.company} <span className="text-gray-600">•</span> {item.location}
                                         </p>
                                         <p className="text-gray-300 leading-relaxed">{item.description}</p>
-                                    </div>
+                                    </motion.div>
                                 </motion.div>
                             ))}
                         </div>
