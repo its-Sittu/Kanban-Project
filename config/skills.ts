@@ -134,4 +134,5 @@ export const skillCategories: SkillCategory[] = [
             { name: "Payload CMS", icon: "code" },
             { name: "KeystoneJS", icon: "code" },
             { name: "TinaCMS", icon: "code" },
+            { name: "Netlify CMS", icon: "code" },
 ]
