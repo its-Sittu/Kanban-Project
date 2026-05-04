@@ -125,5 +125,4 @@ export const skillCategories: SkillCategory[] = [
             { name: "Prismic", icon: "code" },
             { name: "Sanity", icon: "code" },
             { name: "DatoCMS", icon: "code" },
-            { name: "Storyblok", icon: "code" },
 ]
