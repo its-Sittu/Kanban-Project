@@ -79,4 +79,5 @@ export const skillCategories: SkillCategory[] = [
             { name: "Vercel", icon: "code" },
             { name: "Heroku", icon: "code" },
             { name: "DigitalOcean", icon: "code" },
+            { name: "Linode", icon: "code" },
 ]
