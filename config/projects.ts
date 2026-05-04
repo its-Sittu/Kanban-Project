@@ -24,7 +24,7 @@ export const projects: Project[] = [
     },
     {
         title: "Movie Motion Shot",
-        description: "Implemented authentication, product management, and cart functionality. Integrated Redux Toolkit for structured state management.",
+        description: "A full-featured movie discovery platform. Built with a comprehensive authentication system, dynamic product management, and optimized cart functionality using Redux Toolkit for state management.",
         techStack: ["MERN Stack"],
         image: "/projects/movie-platform.png",
     },
