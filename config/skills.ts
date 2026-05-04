@@ -80,5 +80,4 @@ export const skillCategories: SkillCategory[] = [
             { name: "Heroku", icon: "code" },
             { name: "DigitalOcean", icon: "code" },
             { name: "Linode", icon: "code" },
-            { name: "Cloudflare", icon: "code" },
 ]
