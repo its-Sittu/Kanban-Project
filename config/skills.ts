@@ -131,4 +131,5 @@ export const skillCategories: SkillCategory[] = [
             { name: "ButterCMS", icon: "code" },
             { name: "Cosmic JS", icon: "code" },
             { name: "Directus", icon: "code" },
+            { name: "Payload CMS", icon: "code" },
 ]
