@@ -103,4 +103,5 @@ export const skillCategories: SkillCategory[] = [
             { name: "Auth0", icon: "code" },
             { name: "Okta", icon: "code" },
             { name: "Firebase Auth", icon: "code" },
+            { name: "Cognito", icon: "code" },
 ]
