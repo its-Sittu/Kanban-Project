@@ -94,4 +94,5 @@ export const skillCategories: SkillCategory[] = [
             { name: "Datadog", icon: "code" },
             { name: "Sentry", icon: "code" },
             { name: "LogRocket", icon: "code" },
+            { name: "Mixpanel", icon: "code" },
 ]
