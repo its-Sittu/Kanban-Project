@@ -115,5 +115,4 @@ export const skillCategories: SkillCategory[] = [
             { name: "Magento", icon: "code" },
             { name: "BigCommerce", icon: "code" },
             { name: "Contentful", icon: "code" },
-            { name: "Strapi", icon: "code" },
 ]
